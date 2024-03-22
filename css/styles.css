@@ -70,12 +70,15 @@ body {
     color: #404bbf
 }
 
-.header-link:hover {
+.header-link:focus {
     color: #404bbf
 }
 
 /*--------------*/
 
+.section-first {
+    background-color: #2e2f42;
+}
 
 .main-h1 {
     color: #FFF;
@@ -87,9 +90,11 @@ body {
     line-height: 60px;
     letter-spacing: 1.12px;
     width: 496px;
+    line-height: 1.07
 }
 
 .main-button {
+    font-family: "Roboto", sans-serif;
     display: inline-flex;
     padding: 16px 32px;
     align-items: flex-start;
@@ -104,6 +109,15 @@ body {
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.64px;
+    cursor: pointer;
+}
+
+.main-button:hover {
+    background-color: #404BBF
+}
+
+.main-button:focus {
+    color: #404BBF;
 }
 
 .section2-list-item-title {
