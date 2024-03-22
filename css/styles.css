@@ -52,6 +52,10 @@ body {
     color: #404bbf;
 }
 
+.header-adress {
+    font-style: normal;
+}
+
 .header-link {
     color: #434455;
     font-family: Roboto;
@@ -63,6 +67,13 @@ body {
     text-decoration: none;
 }
 
+.header-link:hover {
+    color: #404bbf
+}
+
+.header-link:hover {
+    color: #404bbf
+}
 
 /*--------------*/
 
