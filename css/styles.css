@@ -9,7 +9,7 @@ body {
 
 
 .section {
-    color: #4D5AE5;
+    color: #2E2F42;
     font-family: Raleway;
     font-size: 18px;
     font-style: normal;
@@ -21,8 +21,8 @@ body {
 }
 
 .logo {
-    color: #2E2F42;
-    font-family: Raleway;
+    color: #4D5AE5;
+    font-family: "Raleway";
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
@@ -30,6 +30,7 @@ body {
     letter-spacing: 0.54px;
     text-transform: uppercase;
     text-decoration: none;
+    line-height: 1.17;
 }
 
 .header-text-list-item {
