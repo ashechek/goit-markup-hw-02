@@ -89,17 +89,11 @@ body {
     font-weight: 700;
     line-height: 60px;
     letter-spacing: 1.12px;
-    width: 496px;
     line-height: 1.07
 }
 
 .main-button {
     font-family: "Roboto", sans-serif;
-    display: inline-flex;
-    padding: 16px 32px;
-    align-items: flex-start;
-    gap: 10px;
-    border-radius: 4px;
     background: #4D5AE5;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     color: #FFF;
@@ -202,4 +196,8 @@ body {
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+}
+
+.section2 {
+    color: #f4f4fd;
 }
