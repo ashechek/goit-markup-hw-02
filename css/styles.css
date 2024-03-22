@@ -112,7 +112,7 @@ body {
     background-color: #404BBF;
 }
 
-.section2-list-item-title {
+.section-second-list-item-title {
     color: #2E2F42;
     font-family: Roboto;
     font-size: 20px;
@@ -122,7 +122,7 @@ body {
     letter-spacing: 0.4px;
 }
 
-.section2-list-item-text {
+.section-second-list-item-text {
     color: #434455;
     font-family: Roboto;
     font-size: 16px;
@@ -132,7 +132,7 @@ body {
     letter-spacing: 0.32px;
 }
 
-.s3-list {
+.section-third-list {
     background-color: #FFFFFF;
 }
 
