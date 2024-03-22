@@ -44,6 +44,14 @@ body {
     text-decoration: none;
 }
 
+.header-text-list-item:hover {
+    color: #404bbf;
+}
+
+.header-text-list-item:focus {
+    color: #404bbf;
+}
+
 .header-link {
     color: #434455;
     font-family: Roboto;
